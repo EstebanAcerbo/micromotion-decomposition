@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+*.out
+*.bbl
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

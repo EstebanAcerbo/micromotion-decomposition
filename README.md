@@ -5,6 +5,8 @@ Centro Atómico Bariloche & Instituto Balseiro, CNEA-CONICET, Argentina
 
 Companion data and code repository for the manuscript submitted to the *Journal of the Royal Society Interface* (rsif-2026-0404).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23504805.svg)](https://doi.org/10.5281/zenodo.23504805)
+
 ---
 
 ## Overview

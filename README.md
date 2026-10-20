@@ -1,6 +1,6 @@
 # Decomposition of micromotion signals into physically interpretable perturbation modes via lattice-based simulations
 
-**E. Acerbo, M. Bellotti, C. A. González**  
+**E. Acerbo, M. I. Bellotti, F. J. Bonetto**  
 Centro Atómico Bariloche & Instituto Balseiro, CNEA-CONICET, Argentina
 
 Companion data and code repository for the manuscript submitted to the *Journal of the Royal Society Interface* (rsif-2026-0404).
@@ -161,4 +161,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 If you use this code or data, please cite the accompanying manuscript:
 
-> E. Acerbo, M. Bellotti, C. A. González, "Decomposition of micromotion signals into physically interpretable perturbation modes via lattice-based simulations," *Journal of the Royal Society Interface* (2026).
+> E. Acerbo, M. I. Bellotti, F. J. Bonetto, "Decomposition of micromotion signals into physically interpretable perturbation modes via lattice-based simulations," *Journal of the Royal Society Interface* (2026).

@@ -96,16 +96,21 @@ Reconstruction algorithms that decompose each experimental time step into pertur
 
 ### `Report/`
 
-Figure generation scripts for the manuscript.
+Manuscript source and figure generation scripts.
 
 | File | Description |
 |------|-------------|
+| `manuscript.tex` | Manuscript LaTeX source (as submitted). |
+| `manuscript.pdf` | Compiled manuscript. |
+| `bibliography.bib` | Bibliography. |
+| `images/figure1–9.png` | Manuscript figures as submitted. |
 | `fractal_plots.py` | Fractal dimension figures: log-log curves, per-window fits, reduced summary. |
 | `libraries_plots.py` | Library characterisation figures: perturbation spectra, phase-space coverage, baseline comparison. |
 | `baseline_tabla.py` | Baseline impedance comparison table and figure. |
-| `report.tex` | Manuscript LaTeX source. |
-| `report.pdf` | Compiled manuscript. |
-| `bibliografia.bib` | Bibliography. |
+| `fig_linear_vs_ma.py` | Linear vs. moving-average detrending comparison figure. |
+| `fig_window_comparison.py` | Window size comparison figure. |
+| `fig_window_sensitivity.py` | Window sensitivity figure. |
+| `fig_libD_edges.py` | Library D edge-case visualisation. |
 
 ### `results/`
 

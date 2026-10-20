@@ -11,7 +11,7 @@ Companion data and code repository for the manuscript submitted to the *Journal 
 
 This repository contains the experimental data, simulation code, and analysis scripts supporting the above manuscript. The code implements a finite-domain (FD) impedance solver for Electric Cell-substrate Impedance Spectroscopy (ECIS) electrodes, builds perturbation libraries representing distinct physical micromotion mechanisms, and reconstructs experimental impedance fluctuations as sequences of discrete perturbation modes.
 
-The simulation engine was developed for a specific laboratory setup (ECIS, Bariloche SR530, 350 µm circular gold electrodes) and is not intended as a general-purpose tool. Precomputed results are provided in `results/` so that figures and tables can be reproduced without rerunning the full simulation pipeline.
+The simulation engine was developed for a specific laboratory setup (ECIS, 350 µm circular gold electrodes) and is not intended as a general-purpose tool. Precomputed results are provided in `results/` so that figures and tables can be reproduced without rerunning the full simulation pipeline.
 
 Enquiries about code logic and operation: esteban.acerbo@ib.edu.ar
 
